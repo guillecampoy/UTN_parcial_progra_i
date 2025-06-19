@@ -36,10 +36,7 @@ No se requieren dependencias externas. Solo necesitás tener instalado:
 ## 📚 Contenido
 
 - `practica_examen.ipynb`: Notebook con ejercicios prácticos para exámenes.
-  - Ejercicio 1: Contar dígitos
-  - Ejercicio 2: Verificar si un número es capicúa
-  - Ejercicio 3: Calcular el factorial de un número
-  - (¡podés sumar los tuyos también!)
+Se incluyen algunos ejercicios de completar opción correspondiente
 
 ## 🤝 Contribuciones
 
